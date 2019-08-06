@@ -10,9 +10,6 @@ nie jest liczba", po czym wrócić do pkt. 1;
 4. jeśli liczba podana przez użytkownika jest większa niż wylosowana, wyświetlić komunikat: "Za dużo!", po czym wrócić do pkt. 1;
 5. jeśli liczba podana przez użytkownika jest równa wylosowanej, wyświetlić komunikat: "Zgadłeś!", po czym zakończyć działanie programu.
 
-  
-Gra w zgadywanie liczb
-
 Przykład:
  Zgadnij liczbę: cześć To nie jest liczba. Zgadnij liczbę: 50
 Za mało!
